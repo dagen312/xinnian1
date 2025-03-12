@@ -8,3 +8,5 @@ print("1")
 # 5.添加文件到暂存区，相当于 git add
 # 6.添加文件到本地仓库，相当于 git commit -m "xxx"
 # 7.推送文件到远程仓库，相当于 git push 远程仓库地址
+
+# allure generate ./report -o ./report/html --clean
